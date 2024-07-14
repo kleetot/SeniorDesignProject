@@ -1,7 +1,8 @@
 # SeniorDesignProject
-For my senior design project, my group (consisting of 6 junior computer science students) worked with the company VPT.FIT, and the product he asked us to make was a virtual personal trainer chatbot which could be added to his website. His goals for having a chatbot instead of his current setup is that it could provide support for users during their workout (if they had questions about a specific exercise) or if the workout needed to be adjusted according to user need/feedback (such as injury, area of focus, intensity). Another Stevens group created a VPT.FIT app, so please note that is unrelated to our project.
 
 My team signed an NDA at the completion of the project which prohibits us from sharing our work and defines the ownership of the software to VPT.FIT, so I do not feel comfortable sharing it on a public repository. Instead, I will describe it here.
+
+For my senior design project, my group (consisting of 6 junior computer science students) worked with the company VPT.FIT, and the product he asked us to make was a virtual personal trainer chatbot which could be added to his website. His goals for having a chatbot instead of his current setup is that it could provide support for users during their workout (if they had questions about a specific exercise) or if the workout needed to be adjusted according to user need/feedback (such as injury, area of focus, intensity). Another Stevens group created a VPT.FIT app, so please note that is unrelated to our project.
 
 For the final product, we used HTML and CSS for the front-end, and we used Javascript and the OpenAI API for the back-end.
 
